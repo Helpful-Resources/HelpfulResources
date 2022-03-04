@@ -28,3 +28,12 @@ _<h1 align=center> ✨ Helpful Resources ✨ </h1>_
   
 - <a href="https://mixkit.co/free-sound-effects/click/"> _`Mixkit`_ </a>
 </details>
+
+
+<details>
+  <summary> Github Readme </summary>
+  
+- <a href="https://github.com/durgeshsamariya/awesome-github-profile-readme-templates"> _`awesome github profile readme templates`_ </a>
+- <a href="https://github.com/shravan20/github-readme-quotes"> _`github readme quotes`_ </a>
+</details>
+
