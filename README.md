@@ -19,6 +19,8 @@ _<h1 align=center> ✨ Helpful Resources ✨ </h1>_
   <summary> High Resolution photos and videos </summary>
   
   - <a href="https://www.pexels.com">   _`Pexels`_    </a>
+  - <a href="https://pixabay.com">   _`pixabay`_    </a>
+
 </details>
 
 
