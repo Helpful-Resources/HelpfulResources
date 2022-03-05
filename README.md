@@ -32,6 +32,15 @@ _<h1 align=center> ✨ Helpful Resources ✨ </h1>_
 </details>
 
 
+
+<details>
+  <summary> Icons </summary>
+  
+- <a href="https://react-icons.github.io/react-icons/"> _`React Icons`_ </a>
+- <a href="https://www.flaticon.com/"> _`Flat Icon`_ </a>
+</details>
+
+
 <details>
   <summary> Github Readme </summary>
   
