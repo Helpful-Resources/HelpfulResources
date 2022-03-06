@@ -11,6 +11,8 @@ _<h1 align=center> ✨ Helpful Resources ✨ </h1>_
 - <a href="https://cssgradient.io">   _`CSS Gradient Generator`_    </a>
 - <a href="https://9elements.github.io/fancy-border-radius/#55.54.55.54--441.502">   _`FANCY BORDER RADIUS Generator`_    </a>
 - <a href="https://wweb.dev/resources/animated-css-background-generator/">   _`Animated CSS Background Generator`_    </a>
+- <a href="https://coolors.co">   _` color palettes generator`_    </a>
+
 </details>
  
  
