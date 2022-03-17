@@ -17,6 +17,14 @@ _<h1 align=center> ✨ Helpful Resources ✨ </h1>_
  
  
  
+ <details>
+  <summary> CSS framework </summary>
+  
+- <a href="https://tailwindcss.com"> _`Tailwind`_ </a>
+</details>
+ 
+ 
+ 
 <details>
   <summary> High Resolution photos and videos </summary>
   
@@ -43,10 +51,7 @@ _<h1 align=center> ✨ Helpful Resources ✨ </h1>_
 </details>
 
 
-<details>
-  <summary> Github Readme </summary>
-  
-- <a href="https://github.com/durgeshsamariya/awesome-github-profile-readme-templates"> _`awesome github profile readme templates`_ </a>
-- <a href="https://github.com/shravan20/github-readme-quotes"> _`github readme quotes`_ </a>
-</details>
+
+
+
 
