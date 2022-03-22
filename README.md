@@ -56,6 +56,8 @@ _<h1 align=center> ✨ Helpful Resources ✨ </h1>_
 
  - <a href="https://github.com/durgeshsamariya/awesome-github-profile-readme-templates"> _`awesome github profile readme templates`_ </a>
  - <a href="https://github.com/shravan20/github-readme-quotes"> _`github readme quotes`_ </a>
+ - <a href="https://haikei.app"> _`Generate unique SVG `_ </a>
+  
  </details>
 
 
