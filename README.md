@@ -60,6 +60,13 @@ _<h1 align=center> ✨ Helpful Resources ✨ </h1>_
  - <a href="https://mediamodifier.com/"> _`online mockup tool`_ </a>
 
  </details>
+ 
+ <details>
+  <summary> React </summary>
+  
+  - <a href="https://github.com/bondz/react-epic-spinners">   _`React Epic Spinners`_    </a>
+
+</details>
 
 
 
