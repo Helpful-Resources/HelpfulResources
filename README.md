@@ -58,6 +58,8 @@ _<h1 align=center> ✨ Helpful Resources ✨ </h1>_
  - <a href="https://github.com/shravan20/github-readme-quotes"> _`github readme quotes`_ </a>
  - <a href="https://haikei.app"> _`Generate unique SVG `_ </a>
  - <a href="https://mediamodifier.com/"> _`online mockup tool`_ </a>
+  - <a href="https://github.com/DenverCoder1/readme-typing-svg"> _`Readme Typing SVG`_ </a>
+
 
  </details>
  
