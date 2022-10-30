@@ -48,6 +48,9 @@ _<h1 align=center> ✨ Helpful Resources ✨ </h1>_
   
 - <a href="https://react-icons.github.io/react-icons/"> _`React Icons`_ </a>
 - <a href="https://www.flaticon.com/"> _`Flat Icon`_ </a>
+- <a href="https://iconscout.com/"> _`Illustrations Icons`_ </a>
+
+
 </details>
 
 
