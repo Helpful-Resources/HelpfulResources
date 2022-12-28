@@ -12,6 +12,7 @@ _<h1 align=center> ✨ Helpful Resources ✨ </h1>_
 - <a href="https://9elements.github.io/fancy-border-radius/#55.54.55.54--441.502">   _`FANCY BORDER RADIUS Generator`_    </a>
 - <a href="https://wweb.dev/resources/animated-css-background-generator/">   _`Animated CSS Background Generator`_    </a>
 - <a href="https://coolors.co">   _` color palettes generator`_    </a>
+- <a href="https://css-scroll-shadows.vercel.app/?bgColor=ffffff&shadowColor=878787&pxSize=10">   _` CSS Scroll Shadows!`_    </a>
 
 </details>
  
