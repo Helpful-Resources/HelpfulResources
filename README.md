@@ -64,6 +64,8 @@ _<h1 align=center> ✨ Helpful Resources ✨ </h1>_
  - <a href="https://mediamodifier.com/"> _`online mockup tool`_ </a>
  - <a href="https://github.com/DenverCoder1/readme-typing-svg"> _`Readme Typing SVG`_ </a>
  - <a href="https://app.diagrams.net"> _`Diagrams`_ </a>
+ - <a href="https://excalidraw.com"> _`Online whiteboard`_ </a>
+
 
 
  </details>
