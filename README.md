@@ -85,4 +85,12 @@ _<h1 align=center> ✨ Helpful Resources ✨ </h1>_
 
 
  </details>
+ 
+ <details>
+   <summary> APIs </summary>
+
+ - <a href="https://rapidapi.com/hub"> _`RapidAPI`_ </a>
+
+
+ </details>
 
